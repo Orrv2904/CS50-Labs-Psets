@@ -1,0 +1,13 @@
+sort1 uses: Bubble Sort
+
+How do you know?: La ordenacion por burbujas puede ser la mas lenta en ciertos casos, porque tiene que pasar por todos los elementos dos veces //n^2 veces//
+La ordenacion por burbujas tiene el peor tiempo que registre con  time ./sort1 ya que tiene que mover cada elemento de la izquierda hasta la derecha y asi sucesivamente
+
+sort2 uses: Merge Sort
+
+How do you know?: En una ordenacion inversa, la ordenacion por merge tiene mejor tiempo en comparacion a los demas sorts.
+
+sort3 uses: Selection Sort
+
+How do you know?: El tiempo que hace la seleccion esta entre merge y burbujas.
+Tiene que recorrer cada n elementos, pero no intercambia activamente su elemento vecinp, por lo que es mas rapido que la ordenacion por burbujas
